@@ -1,0 +1,10 @@
+D:\SOURCE\GenSQLScript\bin\Debug\GenSQLScript.exe.config
+D:\SOURCE\GenSQLScript\bin\Debug\GenSQLScript.exe
+D:\SOURCE\GenSQLScript\bin\Debug\GenSQLScript.pdb
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.csprojAssemblyReference.cache
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.Form1.resources
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.Properties.Resources.resources
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.csproj.GenerateResource.cache
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.csproj.CoreCompileInputs.cache
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.exe
+D:\SOURCE\GenSQLScript\obj\Debug\GenSQLScript.pdb
